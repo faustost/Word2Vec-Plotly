@@ -8,6 +8,8 @@ Tasks & skills:
 - Basic model results analysis
 - Building interactive visual tool with graphs for full-scale analysis
 
-Check it out! https://www.coursera.org/projects/interactive-word2vec
+Check out the course! https://www.coursera.org/projects/interactive-word2vec
+
+Proof of completion: http://coursera.org/verify/9A3MKG56SWTD
 
 Credits: Ari Anastassiou.
