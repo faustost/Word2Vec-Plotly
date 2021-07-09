@@ -2,7 +2,6 @@
 Interactive Word Embeddings using Word2Vec and Plotly (Coursera Project)
 
 Tasks & skills:
-- Introduction to the task and demo
 - Exploratory data analysis and preprocessing
 - Model theory and training
 - Basic model results analysis
